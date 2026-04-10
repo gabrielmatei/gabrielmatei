@@ -20,6 +20,8 @@ Co-Founder & Technical Lead at [buidly](https://buidly.com) · [gabrielmatei.com
 
 ## 🚀 Projects
 
+🛡️ **[pubsafe](https://github.com/gabrielmatei/pubsafe)** - A CLI tool to audit git repositories for hidden secrets, security vulnerabilities, and problematic copyleft licenses before you make them public.
+
 🤖 **[lythra](https://github.com/gabrielmatei/lythra)** - A scripting language built around LLM integration as a first-class feature. Determinism controls, typed LLM outputs, and a clean pipeline model for building AI-powered programs.
 
 🎛️ **[Hardware Bloom Filter (VHDL)](https://github.com/gabrielmatei/hw-bloom-filter)** - A simple personal experiment to learn how a Bloom filter translates into hardware using VHDL.
